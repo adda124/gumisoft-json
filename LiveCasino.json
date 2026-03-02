@@ -1,0 +1,559 @@
+[
+     {
+    "category": "Live Casino",
+    "game_list": [
+      {
+        "Game Name": "Dream Catcher",
+        "Game UID": "7f50a6fbfcd9257299303b5757d43525",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/DreamCatcher.webp"
+      },
+      {
+        "Game Name": "Infinite Blackjack",
+        "Game UID": "58d7089aa20bce7f70e0e2ce81e888f4",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/InfiniteBlackjack.webp"
+      },
+      {
+        "Game Name": "No Commission Baccarat",
+        "Game UID": "17440e0b64775115bb5ae6554a2973a9",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/NoCommissionBaccarat.webp"
+      },
+      {
+        "Game Name": "Peek Baccarat",
+        "Game UID": "c367b8269a44719f19d7264b37d4582b",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/PeekBaccarat.webp"
+      },
+      {
+        "Game Name": "Power Blackjack",
+        "Game UID": "1d1c0d3ec98deb128bdd5acdef0f157e",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/PowerBlackjack.webp"
+      },
+      {
+        "Game Name": "Red Door Roulette",
+        "Game UID": "6ddd73419e9a49b6b942e29088219d64",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/RedDoorRoulette.webp"
+      },
+      {
+        "Game Name": "First Person Lightning Blackjack",
+        "Game UID": "74914b065a9e6b9c7cb8a0e4b17294ed",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonLightningBlackjack.webp"
+      },
+      {
+        "Game Name": "First Person Blackjack",
+        "Game UID": "4ac0e874a4d5fc55bcdba5302b43bc96",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonBlackjack.webp"
+      },
+      {
+        "Game Name": "First Person Dragon Tiger",
+        "Game UID": "4b4c45709dfd8188d7d6d12fae15bd42",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonDragonTiger.webp"
+      },
+      {
+        "Game Name": "Auto-Roulette VIP",
+        "Game UID": "367c395a50d4ef9edda332e17094670b",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Auto-Roulette VIP.webp"
+      },
+      {
+        "Game Name": "Auto-Roulette",
+        "Game UID": "ed9e15ea8a2cbb9e7ad2604819764d43",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Auto-Roulette.webp"
+      },
+      {
+        "Game Name": "Immersive Roulette",
+        "Game UID": "3b43390eebe1f1a84b15f1251a253b24",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Immersive Roulette.webp"
+      },
+      {
+        "Game Name": "American Roulette",
+        "Game UID": "0afb35f8abd269ca0c0c65a49d5145db",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/American Roulette.webp"
+      },
+      {
+        "Game Name": "Super Andar Bahar",
+        "Game UID": "f7b98e899461bdd49f92afc36b4c0db5",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Super Andar Bahar.webp"
+      },
+      {
+        "Game Name": "Bac Bo",
+        "Game UID": "9b25f8d744859c6840d16ff6103dc5a6",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Bac Bo.webp"
+      },
+      {
+        "Game Name": "Cash or Crash",
+        "Game UID": "b53a604877024ef2eab9946898e65d6b",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/cashorcrash.webp"
+      },
+      {
+        "Game Name": "Craps",
+        "Game UID": "689dd8e8f17dae910dba9fdd4990d41e",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/craps.webp"
+      },
+      {
+        "Game Name": "Crazy Coin Flip",
+        "Game UID": "c177ce05258ed2dcbdece64434eaf817",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/CrazyCoinFlip.webp"
+      },
+      {
+        "Game Name": "Crazy Pachinko",
+        "Game UID": "911a32ad38d77f86baf29a2cdb95da05",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Crazy Pachinko.webp"
+      },
+      {
+        "Game Name": "Crazy Time",
+        "Game UID": "917c0c51d248c33eb058e3210a2e7371",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/CrazyTime.webp"
+      },
+      {
+        "Game Name": "Crazy Time A",
+        "Game UID": "814aa56348ac4165588f2a3e251f8732",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/CrazyTimeA.webp"
+      },
+      {
+        "Game Name": "Caribbean Stud Poker",
+        "Game UID": "724eebd5cbe7555b01ed60279cb59e5a",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/CaribbeanStudPoker.webp"
+      },
+      {
+        "Game Name": "Deal or No Deal",
+        "Game UID": "bee6be84ab995f2040f4e575c2cc3910",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/DealorNoDeal.webp"
+      },
+      {
+        "Game Name": "2 Hand Casino Hold'em",
+        "Game UID": "97dcc429fe7142159aab82b918780f14",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/2HandCasinoHold'em.webp"
+      },
+      {
+        "Game Name": "Dead or Alive: Saloon",
+        "Game UID": "eda1a2c5edb8370f8df58dcf8e1381b9",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/DeadorAliveSaloon.webp"
+      },
+      {
+        "Game Name": "Double Ball Roulette",
+        "Game UID": "fae08e8e222f162b27a2d5c4329d1044",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/DoubleBallRoulette.webp"
+      },
+      {
+        "Game Name": "Dragon Tiger",
+        "Game UID": "1fd20a344c9f147cdef85bbaa7447dcd",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Dragon Tiger.webp"
+      },
+      {
+        "Game Name": "Blackjack Fortune VIP",
+        "Game UID": "06e7ecf8debac2b86e8b38342de30a7a",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/BlackjackFortuneVIP.webp"
+      },
+      {
+        "Game Name": "Emperor Sic Bo",
+        "Game UID": "6a1e55dc7a14f038d9b0207fdb3ecbc0",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/EmperorSicBo.webp"
+      },
+      {
+        "Game Name": "Extreme Texas Hold'em",
+        "Game UID": "fc4e71748bc1a8a7abfc4c1e2f63aa3b",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Extreme Texas Hold'em.webp"
+      },
+      {
+        "Game Name": "Fan Tan",
+        "Game UID": "5cb6aa4e2ce1c775c568561401ffdfca",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Fan Tan.webp"
+      },
+      {
+        "Game Name": "Funky Time",
+        "Game UID": "8405541014f364b7dc59657aa6892446",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Funky Time.webp"
+      },
+      {
+        "Game Name": "Blackjack Grand VIP",
+        "Game UID": "79efa086e10bbd8543b6e03e7a491351",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Blackjack Grand VIP.webp"
+      },
+      {
+        "Game Name": "Gold Vault Roulette",
+        "Game UID": "a8d52f6fa06dafce786d70d190c25cbe",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/GoldVaultRoulette.webp"
+      },
+      {
+        "Game Name": "Gonzo's Treasure Map",
+        "Game UID": "3f0b35e91f18915f5c5e88f3e1daf66e",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Gonzo's Treasure Map.webp"
+      },
+      {
+        "Game Name": "Blackjack Platinum VIP",
+        "Game UID": "c2bd2aafaa4dbaff9df0cd0b53fc6056",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Blackjack Platinum VIP.webp"
+      },
+      {
+        "Game Name": "Casino Hold'em",
+        "Game UID": "8cb4d1c55915742a45f59f2adbb97e24",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Casino Hold'em.webp"
+      },
+      {
+        "Game Name": "Instant Roulette",
+        "Game UID": "ec65c22981a707736871eecfca8e5e25",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Instant Roulette.webp"
+      },
+      {
+        "Game Name": "Lightning Baccarat",
+        "Game UID": "0f78172e62af19dcc9c75077ea0d0cd0",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/LightningBaccarat.webp"
+      },
+      {
+        "Game Name": "Lightning Dragon Tiger",
+        "Game UID": "d8da3c5c99a593a44c97325e7ba83838",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/LightningDragonTiger.webp"
+      },
+      {
+        "Game Name": "Lightning Roulette",
+        "Game UID": "4a858d6b74c05260d3ea2762838798c7",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/LightningRoulette.webp"
+      },
+      {
+        "Game Name": "Speed Roulette",
+        "Game UID": "b4af506243cafae52908e8fa266f8ff6",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/SpeedRoulette.webp"
+      },
+      {
+        "Game Name": "Salon Privé Roulette",
+        "Game UID": "105735cbbaca3b69176c710ebb2c751d",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/SalonPrivéRoulette.webp"
+      },
+      {
+        "Game Name": "Mega Ball",
+        "Game UID": "3955853fc6a0b53f7f9b9cff0be19cb8",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/MegaBall.webp"
+      },
+      {
+        "Game Name": "MONOPOLY Big Baller",
+        "Game UID": "067806e82742ca16bfffe70f76215647",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/MONOPOLYBigBaller.webp"
+      },
+      {
+        "Game Name": "MONOPOLY Live",
+        "Game UID": "d496ac5fd91702331133e44b6bd12b26",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/MONOPOLYLive.webp"
+      },
+      {
+        "Game Name": "First Person Dream Catcher",
+        "Game UID": "7ee0da50996278d7fe5136f86f368fa5",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonDreamCatcher.webp"
+      },
+      {
+        "Game Name": "First Person Golden Wealth Baccarat",
+        "Game UID": "88e49e3fb9a9883f01f167d03f5efdcb",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonGoldenWealthBaccarat.webp"
+      },
+      {
+        "Game Name": "First Person Lightning Baccarat",
+        "Game UID": "fec1b730e804bf14bd471a1e9b82bf44",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonLightningBaccarat.webp"
+      },
+      {
+        "Game Name": "First Person American Roulette",
+        "Game UID": "88b2d98462fbc45d6d31e95083e183df",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonAmericanRoulette.webp"
+      },
+      {
+        "Game Name": "First Person Roulette",
+        "Game UID": "a82670530f49a6b3445dc1a592a2eb9e",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonRoulette.webp"
+      },
+      {
+        "Game Name": "First Person Lightning Roulette",
+        "Game UID": "f5ee6fce16d369d1a656f3b227fc7236",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonLightningRoulette.webp"
+      },
+      {
+        "Game Name": "First Person Top Card",
+        "Game UID": "64985010e87aab51c7fb18076d34062d",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonTopCard.webp"
+      },
+      {
+        "Game Name": "First Person Baccarat",
+        "Game UID": "e18dfa4a5dd4a0f2d8b45337bd6abb9d",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonBaccarat.webp"
+      },
+      {
+        "Game Name": "First Person Craps",
+        "Game UID": "823245918aa2afd108a5912e363c083c",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonCraps.webp"
+      },
+      {
+        "Game Name": "First Person Deal or No Deal",
+        "Game UID": "c715eb06391fabe5275d0b56440f49f3",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonDealOrNoDeal.webp"
+      },
+      {
+        "Game Name": "First Person Mega Ball",
+        "Game UID": "3150b1cd8fbbddd94d36f20fab504653",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonMegaBall.webp"
+      },
+      {
+        "Game Name": "Stock Market",
+        "Game UID": "699fff17c56ac4af07db510e86cdf6bb",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/StockMarket.webp"
+      },
+      {
+        "Game Name": "Super Sic Bo",
+        "Game UID": "e3951a5bf624e822a22cba1cbe619df5",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/SuperSicBo.webp"
+      },
+      {
+        "Game Name": "Teen Patti",
+        "Game UID": "0617a82334f4f1766cf282ce906e1df7",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/TeenPatti.webp"
+      },
+      {
+        "Game Name": "Football Studio",
+        "Game UID": "392e13e38b3cec5ad259254a206d343a",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Footballstudio.webp"
+      },
+      {
+        "Game Name": "Football Studio Dice",
+        "Game UID": "1909b4e3380dc37654f8e3997e63ec1b",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FootballStudioDice.webp"
+      },
+      {
+        "Game Name": "Triple Card Poker",
+        "Game UID": "b7c3b022f1c2b768524523d855a58d89",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/TripleCardPoker.webp"
+      },
+      {
+        "Game Name": "Roulette",
+        "Game UID": "c9020da3ac9119910b7146416d5a9850",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/Roulette.webp"
+      },
+      {
+        "Game Name": "VIP Roulette",
+        "Game UID": "e8f217c3d554285933cb67072c897fac",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/VIPRoulette.webp"
+      },
+      {
+        "Game Name": "XXXtreme Lightning Roulette",
+        "Game UID": "394fe6a2cde24bc487767236cc6eccd6",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/XXXtremeLightningRoulette.webp"
+      },
+      {
+        "Game Name": "Super Speed Baccarat",
+        "Game UID": "bfed6d19ac81b4a24ae60895c05b701d",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/SuperSpeedBaccarat.webp"
+      },
+      {
+        "Game Name": "Football Studio Roulette",
+        "Game UID": "b063d1d13905aa838776a7909387af5f",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FootballStudioRoulette.webp"
+      },
+      {
+        "Game Name": "Balloon Race",
+        "Game UID": "97da77a6853a5af187e58e9187dd5a70",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/BalloonRace.webp"
+      },
+      {
+        "Game Name": "Extra Chilli Epic Spins",
+        "Game UID": "ed0d26758183cfc88c8c791233d86de9",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/ExtraChilliEpicSpins.webp"
+      },
+      {
+        "Game Name": "First Person Video Poker",
+        "Game UID": "24e52b094b2dfadb0c641ed4f4935077",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonVideoPoker.webp"
+      },
+      {
+        "Game Name": "Infinite Free Bet Blackjack",
+        "Game UID": "1d7e0343d64f0427f639bf57228a8cc0",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/InfiniteFreeBetBlackjack.webp"
+      },
+      {
+        "Game Name": "Golden Wealth Baccarat",
+        "Game UID": "6bfe5f8bc47dd87f38fc38ff837b11a6",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/GoldenWealthBaccarat.webp"
+      },
+      {
+        "Game Name": "Lightning Ball",
+        "Game UID": "96050ea4ce01c7c295c15cf910aa7bc4",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/LightningBall.webp"
+      },
+      {
+        "Game Name": "Lightning Dice",
+        "Game UID": "ec5d495bd8aa5908e46d24a53e09f2dc",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/LightningDice.webp"
+      },
+      {
+        "Game Name": "Lightning Sic Bo",
+        "Game UID": "7df14b65a14ab249155c76bc888f4f59",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/LightningSicBo.webp"
+      },
+      {
+        "Game Name": "Lightning Blackjack",
+        "Game UID": "47df3bc7507fabb193a52b459b175733",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/LightningBlackjack.webp"
+      },
+      {
+        "Game Name": "Lightning Storm",
+        "Game UID": "2fa292e4b9852e4f2d79360bab5ccbbc",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/LightningStorm.webp"
+      },
+      {
+        "Game Name": "Bet with Streamers",
+        "Game UID": "95a1a4626f0279f9616e7013bd39f648",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/BetwithStreamers.webp"
+      },
+      {
+        "Game Name": "Prosperity Tree Baccarat",
+        "Game UID": "418f38d98be47c4f77c052347e56b481",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/ProsperityTreeBaccarat.webp"
+      },
+      {
+        "Game Name": "First Person Prosperity Tree Baccarat",
+        "Game UID": "fde4cf03eb3504e9f3898e528231f564",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonProsperityTreeBaccarat.webp"
+      },
+      {
+        "Game Name": "First Person XXXtreme Lightning Roulette",
+        "Game UID": "7f59ab12793402d5d5c499798460c3a1",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonXXXtremeLightningRoulette.webp"
+      },
+      {
+        "Game Name": "First Person HiLo",
+        "Game UID": "7b5d05fc48390b74980d63ac1ea78ed5",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonHiLo.webp"
+      },
+      {
+        "Game Name": "First Person Super Sic Bo",
+        "Game UID": "797aa3e732352d1348b5c876597f5cb4",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonSuperSicBo.webp"
+      },
+      {
+        "Game Name": "First Person XXXtreme Lightning Baccarat",
+        "Game UID": "318291bd00fb6542cf6b6d35e2a9b41a",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonXXXtremeLightningBaccarat.webp"
+      },
+      {
+        "Game Name": "Video Poker",
+        "Game UID": "f079230acdc5863cfa6c6d0c7b0273fe",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/VideoPoker.webp"
+      },
+      {
+        "Game Name": "XXXtreme Lightning Baccarat",
+        "Game UID": "bbf570734d54910e75ee4bfc788e00df",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/XXXtremeLightningBaccarat.webp"
+      },
+      {
+        "Game Name": "Baccarat Squeeze",
+        "Game UID": "83441043af47abb22828010c8d882d6a",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/BaccaratSqueeze.webp"
+      },
+      {
+        "Game Name": "First Person Mega Ball",
+        "Game UID": "d9288603f43db2501d847e843e33b932",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/FirstPersonMegaBall.webp"
+      },
+      {
+        "Game Name": "Dragonara Roulette",
+        "Game UID": "565e25c35f0b387631ec71505a68bac3",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/DragonaraRoulette.webp"
+      },
+      {
+        "Game Name": "Baccarat Control Squeeze",
+        "Game UID": "1c120a3aaf113cb484d3fb83f7e4efa3",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/BaccaratControlSqueeze.webp"
+      },
+      {
+        "Game Name": "Hindi Speed Baccarat",
+        "Game UID": "88dbcefa5bc62761e9fc6aa2ee119892",
+        "Game Type": "CasinoLive",
+        "icon": "/assets/api_images/Evolution/HindiSpeedBaccarat.webp"
+      }
+    ]
+  }
+]
