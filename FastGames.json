@@ -5,193 +5,193 @@
         "Game Name": "Aviator",
         "Game UID": "a04d1f3eb8ccec8a4823bdf18e3f0e84",
         "Game Type": "CasinoTable",
-        "icon": "/api_images/Spribe/Aviator.jpg"
+        "icon": "/assets/api_images/Spribe/Aviator.jpg"
       },
       {
         "Game Name": "Penalty Unlimited",
         "Game UID": "680f7453f0278f3da62cb91b212245e3",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Penalty Unlimited.png"
+        "icon": "/assets/api_images/Inout/Penalty Unlimited.png"
       },
       {
         "Game Name": "Chicken Road 2.0",
         "Game UID": "4bd14ae4ff5ddebf4516695676890928",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Chicken Road 2.0.png"
+        "icon": "/assets/api_images/Inout/Chicken Road 2.0.png"
       },
       {
         "Game Name": "Forest Fortune",
         "Game UID": "458bd34bc83e34501df7e7f96626df6b",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Forest Fortune.png"
+        "icon": "/assets/api_images/Inout/Forest Fortune.png"
       },
       {
         "Game Name": "Hamster Run",
         "Game UID": "af95a673c8f3a420444d73421bcf0e7a",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Hamster Run.png"
+        "icon": "/assets/api_images/Inout/Hamster Run.png"
       },
       {
         "Game Name": "Plinko Aztec",
         "Game UID": "134bbc0f61b73824cf9a68411aa32dc6",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Plinko Aztec.png"
+        "icon": "/assets/api_images/Inout/Plinko Aztec.png"
       },
       {
         "Game Name": "SugarDaddy",
         "Game UID": "3c802c686f7f9270057b6bb69567ea98",
         "Game Type": "crash game",
-        "icon": "/api_images/Inout/SugarDaddy.png"
+        "icon": "/assets/api_images/Inout/SugarDaddy.png"
       },
       {
         "Game Name": "Chicken Road",
         "Game UID": "b269566aad409214c338f0cc4ed20e8b",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Chicken Road.png"
+        "icon": "/assets/api_images/Inout/Chicken Road.png"
       },
       {
         "Game Name": "Joker Poker",
         "Game UID": "b12c2f419c8148b35686e48781255c32",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Joker Poker.png"
+        "icon": "/assets/api_images/Inout/Joker Poker.png"
       },
       {
         "Game Name": "Stairs",
         "Game UID": "60fbf9c812a11d8c9ad04b141c5704ec",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Stairs.png"
+        "icon": "/assets/api_images/Inout/Stairs.png"
       },
       {
         "Game Name": "Triple",
         "Game UID": "4169b950c7cbd0bbd392941a13e56767",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Triple.png"
+        "icon": "/assets/api_images/Inout/Triple.png"
       },
       {
         "Game Name": "Jogo Do Bicho",
         "Game UID": "09a138907ccf03d5c064c5ca71e9d9b3",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Jogo Do Bicho.png"
+        "icon": "/assets/api_images/Inout/Jogo Do Bicho.png"
       },
       {
         "Game Name": "Limbo",
         "Game UID": "e6638819f0f5804d2f27c62d9b36b27b",
         "Game Type": "crash game",
-        "icon": "/api_images/Inout/Limbo.png"
+        "icon": "/assets/api_images/Inout/Limbo.png"
       },
       {
         "Game Name": "AviaFly",
         "Game UID": "cb66d23b547498132598589af324d558",
         "Game Type": "crash game",
-        "icon": "/api_images/Inout/AviaFly.png"
+        "icon": "/assets/api_images/Inout/AviaFly.png"
       },
       {
         "Game Name": "Plinko",
         "Game UID": "a8ca85536ff3597144b74fb8325e1215",
         "Game Type": "MiniC",
-        "icon": "/api_images/Inout/Plinko Aztec.png"
+        "icon": "/assets/api_images/Inout/Plinko Aztec.png"
       },
       {
         "Game Name": "Hot Mines",
         "Game UID": "0de6ef0da684db897221edec3b520b9c",
         "Game Type": "MiniC",
-        "icon": "/api_images/Inout/Hot-mines.png"
+        "icon": "/assets/api_images/Inout/Hot-mines.png"
       },
       {
         "Game Name": "Lucky Mines",
         "Game UID": "b930fe411a27adec15e82b489b2d07c4",
         "Game Type": "MiniC",
-        "icon": "/api_images/Inout/Lucky mines.png"
+        "icon": "/assets/api_images/Inout/Lucky mines.png"
       },
       {
         "Game Name": "Bubbles",
         "Game UID": "bbc504d41d028ec679197d2d5d2ec29d",
         "Game Type": "MiniC",
-        "icon": "/api_images/Inout/Bubbles.png"
+        "icon": "/assets/api_images/Inout/Bubbles.png"
       },
       {
         "Game Name": "Dice",
         "Game UID": "8a87aae7a3624d284306e9c6fe1b3e9c",
         "Game Type": "CasinoTable",
-        "icon": "/api_images/Spribe/Dice.jpg"
+        "icon": "/assets/api_images/Spribe/Dice.jpg"
       },
       {
         "Game Name": "Goal",
         "Game UID": "c68a515f0b3b10eec96cf6d33299f4e2",
         "Game Type": "CasinoTable",
-        "icon": "/api_images/Spribe/Goal.jpg"
+        "icon": "/assets/api_images/Spribe/Goal.jpg"
       },
       {
         "Game Name": "Hi Lo",
         "Game UID": "a669c993b0e1f1b7da100fcf95516bdf",
         "Game Type": "CasinoTable",
-        "icon": "/api_images/Spribe/Hi-Lo.jpg"
+        "icon": "/assets/api_images/Spribe/Hi-Lo.jpg"
       },
       {
         "Game Name": "Plinko",
         "Game UID": "6ab7a4fe5161936012d6b06143918223",
         "Game Type": "CasinoTable",
-        "icon": "/api_images/Spribe/Plinko.jpg"
+        "icon": "/assets/api_images/Spribe/Plinko.jpg"
       },
       {
         "Game Name": "Balloon",
         "Game UID": "de88f202c5a8beeaccabbd944f8acfbf",
         "Game Type": "CasinoTable",
-        "icon": "/api_images/Spribe/balloon.jpg"
+        "icon": "/assets/api_images/Spribe/balloon.jpg"
       },
       {
         "Game Name": "Keno 80",
         "Game UID": "7a762edbe411ebc9be416870a734bd03",
         "Game Type": "CasinoTable",
-        "icon": "/api_images/Spribe/keno80.png"
+        "icon": "/assets/api_images/Spribe/keno80.png"
       },
       {
         "Game Name": "Lucky mines",
         "Game UID": "3a3affa176283107288f5da3698ffe7c",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Lucky mines.png"
+        "icon": "/assets/api_images/Inout/Lucky mines.png"
       },
       {
         "Game Name": "Сoinflip",
         "Game UID": "9b48efcf6b18b12fdd7dc8efe9ae971e",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Сoinflip.png"
+        "icon": "/assets/api_images/Inout/Сoinflip.png"
       },
       {
         "Game Name": "Roulette",
         "Game UID": "c81286ce4034dcf5b71d44c106f968db",
         "Game Type": "roulette",
-        "icon": "/api_images/Inout/Roulette.png"
+        "icon": "/assets/api_images/Inout/Roulette.png"
       },
       {
         "Game Name": "Bubbles",
         "Game UID": "f84949bd783c7395b5f3092f4d4ec600",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Bubbles.png"
+        "icon": "/assets/api_images/Inout/Bubbles.png"
       },
       {
         "Game Name": "Mines",
         "Game UID": "e5e23d4c8f7256a1753793cba5fb5aaf",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Mines.png"
+        "icon": "/assets/api_images/Inout/Mines.png"
       },
       {
         "Game Name": "Sweet Keno",
         "Game UID": "2c62ddc0ad8e2c175ec771882e91789b",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Sweet Keno.png"
+        "icon": "/assets/api_images/Inout/Sweet Keno.png"
       },
       {
         "Game Name": "Hot-mines",
         "Game UID": "6180fdaf4dfab4042194a7d595aca4bb",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Hot-mines.png"
+        "icon": "/assets/api_images/Inout/Hot-mines.png"
       },
       {
         "Game Name": "Plinko 1000",
         "Game UID": "eb3f4260c17737e09767bc4c06796a61",
         "Game Type": "Instant",
-        "icon": "/api_images/Inout/Plinko 1000.png"
+        "icon": "/assets/api_images/Inout/Plinko 1000.png"
       }
     ]
   }
