@@ -7,7 +7,7 @@
         "Game Name": "WINGO",
         "Game UID": "1000",
         "Game Type": "wingo",
-        "icon": "/assets/bcimages/wingo.png"
+        "icon": "/bcimages/wingo.png"
       },
       {
         "Number": 305,
@@ -20,37 +20,37 @@
         "Game Name": "Zombie Carnival",
         "Game UID": "b66957542324a360e19b6f7b7415ef0d",
         "Game Type": "Slot Game",
-        "icon": "/assets/api_images/PragmaticPlay/ZombieCarnival.avif"
+        "icon": "/api_images/PragmaticPlay/ZombieCarnival.avif"
       },
       {
         "Game Name": "Chicken Road 2.0",
         "Game UID": "4bd14ae4ff5ddebf4516695676890928",
         "Game Type": "Instant",
-        "icon": "/assets/api_images/Inout/Chicken Road 2.0.png"
+        "icon": "/api_images/Inout/Chicken Road 2.0.png"
       },
       {
         "Game Name": "Chicken Road",
         "Game UID": "b269566aad409214c338f0cc4ed20e8b",
         "Game Type": "Instant",
-        "icon": "/assets/api_images/Inout/Chicken Road.png"
+        "icon": "/api_images/Inout/Chicken Road.png"
       },
       {
         "Game Name": "Aviator",
         "Game UID": "a04d1f3eb8ccec8a4823bdf18e3f0e84",
         "Game Type": "CasinoTable",
-        "icon": "/assets/api_images/Spribe/Aviator.jpg"
+        "icon": "/api_images/Spribe/Aviator.jpg"
       },
       {
         "Game Name": "Vortex",
         "Game UID": "dd3a07869b4a50330f2d691196297004",
         "Game Type": "Arcade",
-        "icon": "/assets/api_images/Turbogames/Vortex.webp"
+        "icon": "/api_images/Turbogames/Vortex.webp"
       },
       {
         "Game Name": "Mines",
         "Game UID": "e609e40e82f5414e31dd67878cc67fcc",
         "Game Type": "Arcade",
-        "icon": "/assets/api_images/Turbogames/Mines.webp"
+        "icon": "/api_images/Turbogames/Mines.webp"
       }
     ]
   }
